@@ -1,5 +1,5 @@
 {% set name = "loralib" %}
-{% set version = "0.1.1" %}
+{% set version = "0.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/loralib-{{ version }}.tar.gz
-  sha256: 6a3dadecc14a7e38e603e86eac3529b3c440f0855c3eed8855f051c6df35635a
+  sha256: 22ccff494a6254b973ddaee9f9aad4657941cab4221c75c5a04e0cac4fbd4567
 
 build:
   noarch: python
