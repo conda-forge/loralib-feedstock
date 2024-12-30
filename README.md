@@ -1,7 +1,7 @@
 About loralib-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/loralib-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmp5v_33tx7-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/microsoft/LoRA
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=19051&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/loralib-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmp5v_33tx7-feedstock?branchName=main">
       </a>
     </td>
   </tr>
